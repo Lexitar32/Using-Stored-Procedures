@@ -21,7 +21,7 @@ a {
   align-items: center;
   justify-content: space-between;
   margin: 15px auto;
-  max-width: 90%;
+  max-width: 80%;
 }
 
 .logo-flex img {
@@ -29,7 +29,7 @@ a {
 }
 
 .power-bi-cont {
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 .power-bi-cont h1 {
