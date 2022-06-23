@@ -3,7 +3,7 @@
 body {
   padding: 0;
   margin: 0;
-  background: url(./assets/pexels-adam-lukac-773953.jpg) no-repeat center center/cover;
+  background: url(./assets/pexels-gdtography-950241.jpg) no-repeat center center/cover;
   top: -9000px;
   font-family: "Montserrat", sans-serif;
   text-align: center;
@@ -29,7 +29,7 @@ a {
 }
 
 .power-bi-cont {
-  margin-top: 30px;
+  margin-top: 90px;
 }
 
 .power-bi-cont h1 {
@@ -37,8 +37,8 @@ a {
 }
 
 .brand-logo img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 200px;
+  max-height: 200px;
 }
 
 .sub-topic {
@@ -57,7 +57,7 @@ a {
 }
 
 .topic-container p {
-  font-size: 17px;
+  font-size: 19px;
   font-weight: bold;
   border-bottom: 0.5px solid black;
   padding-bottom: 20px;
